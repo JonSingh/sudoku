@@ -1,6 +1,8 @@
 #!/usr/bin/env node
+#!Test
 
-var sudoku = require('../');
+
+var sudoku = require('../'); 
 
 function printboard(board) {
 	var out = '';
